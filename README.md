@@ -14,4 +14,4 @@ This is my first rice for i3-gaps, hope you like it.
 - Python
 
 ## Tips for the install
-I recommend you to download this repo, and copy all of its content in your home folder, then, restart your X session.
+For install this customization, I recommend you to clone this repo, and copy all of its content in your home folder, then, restart your X session.
