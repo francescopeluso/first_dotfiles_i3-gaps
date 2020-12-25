@@ -6,12 +6,14 @@ This is my first rice for i3-gaps, hope you like it.
 [![sample screenshot](https://i.imgur.com/QwOaceF.png)](https://i.imgur.com/QwOaceF.png)
 
 ## Recommended packages to install 
+- i3-gaps (obviously)
 - Autotiling
 - feh
 - Picom (ibhagwan's fork, for rounded window corners)
 - Polybar
 - Dunst
 - Python
+- (if I forgot one, please, tell me!)
 
 ## Tips for the install
 For install this customization, I recommend you to clone this repo, and copy all of its content in your home folder, then, restart your X session.
