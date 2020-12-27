@@ -15,5 +15,9 @@ This is my first rice for i3-gaps, hope you like it.
 - Python
 - (if I forgot one, please, tell me!)
 
+[![sample screenshot](https://i.imgur.com/XrpJygE.png)](https://i.imgur.com/XrpJygE.png)
+
 ## Tips for the install
 For install this customization, I recommend you to clone this repo, and copy all of its content in your home folder, then, restart your X session.
+
+[![sample screenshot](https://i.imgur.com/u4t7YNp.png)](https://i.imgur.com/u4t7YNp.png)
