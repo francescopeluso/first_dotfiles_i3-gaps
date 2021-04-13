@@ -25,4 +25,3 @@ For install this customization, I recommend you to clone this repo, and copy all
 
 [![sample screenshot](https://i.imgur.com/u4t7YNp.png)](https://i.imgur.com/u4t7YNp.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsfrankie&show_icons=true)
