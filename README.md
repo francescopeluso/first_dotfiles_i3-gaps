@@ -24,3 +24,5 @@ This is my first rice for i3-gaps, hope you like it.
 For install this customization, I recommend you to clone this repo, and copy all of its content in your home folder, then, restart your X session.
 
 [![sample screenshot](https://i.imgur.com/u4t7YNp.png)](https://i.imgur.com/u4t7YNp.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsfrankie&show_icons=true)
